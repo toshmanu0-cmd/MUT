@@ -24,7 +24,7 @@
     "sqlite3": true
   },
   "dependencies": {
-        "@whiskeysockets/baileys": "npm:@tristancage/baileys@6.7.4",
+        "@whiskeysockets/baileys": "7.0.0-rc14",
         "adm-zip": "^0.5.16",
         "ab-downloader": "latest",
         "better-sqlite3": "^12.2.0",
